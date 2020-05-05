@@ -1,0 +1,23 @@
+{
+  "name": "advance_css_animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recuersive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megha327/advance_css_animation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megha327/advance_css_animation/issues"
+  },
+  "homepage": "https://github.com/Megha327/advance_css_animation#readme",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
