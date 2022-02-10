@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Megha327/advance_css_animation#readme",
   "dependencies": {
-    "node-sass": "^4.14.0"
+    "node-sass": "^7.0.0"
   }
 }
